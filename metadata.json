@@ -1,0 +1,6 @@
+{
+  "name": "HEALML – Self-Healing Machine Learning Pipeline",
+  "description": "Autonomous MLOps platform featuring tabular Random Forest training, Isolation Forest anomaly detection, automated root-cause analysis, and verified self-healing recovery with SQLite audit logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

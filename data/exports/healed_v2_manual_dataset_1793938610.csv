@@ -1,0 +1,11 @@
+Age,Fare,Pclass,Sex,Survived
+22.0,7.25,3,Male,0
+38.0,71.28,1,Female,1
+26.0,7.925,3,Female,1
+35.0,53.1,1,Female,1
+24.67,8.05,3,Male,0
+54.0,51.86,1,Male,0
+2.0,21.075,3,Male,0
+27.0,11.13,3,Female,1
+14.0,30.07,2,Female,1
+4.0,16.7,3,Female,1
